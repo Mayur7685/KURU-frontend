@@ -1,0 +1,11 @@
+# Hardhat build files
+artifacts/
+cache/
+
+# Optional: Ignore TypeChain if you're regenerating them in CI
+typechain/
+
+# Node and environment files
+node_modules/
+.env
+
